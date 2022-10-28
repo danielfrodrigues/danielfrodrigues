@@ -23,8 +23,7 @@
   <img align="center" alt="Figma" height="30" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg">
   <img align="center" alt="Git" height="30" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" >
   <img align="center" style="background:#c0c0c0; border-radius: 50%" alt="Github" height="30" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" >
-</div>
-<br>
+</div> <br>
 ### <i>Canais de Contato:</i><br>
 [![Linkedin](https://img.shields.io/badge/LinkedIn-027CC2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/daniel-ferreira-rodrigues-244a18149)
 [![Telegram](https://img.shields.io/badge/Telegram-027CC2?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/danielfrodrigues01)
