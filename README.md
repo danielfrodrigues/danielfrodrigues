@@ -7,7 +7,7 @@
   </a>
 </div>
 
-<br><br>
+<br>
 
 ### <i>Tecnologias que estou Estudando e Utilizando:</i>
 
