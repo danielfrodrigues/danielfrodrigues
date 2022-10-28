@@ -1,5 +1,14 @@
 ### Olá! Eu sou o Daniel 😁<br><br>
 
+<div>
+  <a href="https://github.com/danielfrodrigues">
+  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=danielfrodrigues&show_icons=true&theme=transparent&text_color=FFF&title_color=00C5A6&icon_color=027CC2&border_color=00C5A6"/>
+  <img height="160em" style="" src="https://github-readme-stats.vercel.app/api/top-langs/?username=danielfrodrigues&layout=compact&langs_count=7&theme=transparent&text_color=FFF&title_color=00C5A6&border_color=00C5A6"/>
+  </a>
+</div>
+
+<br><br>
+
 ### <i>Tecnologias que estou Estudando e Utilizando:</i>
 
 
@@ -17,16 +26,6 @@
 </div>
 
 <br><br>
-
-<div>
-  <a href="https://github.com/danielfrodrigues">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=danielfrodrigues&show_icons=true&theme=transparent&text_color=FFF&title_color=00C5A6&icon_color=027CC2&border_color=00C5A6"/>
-  <img height="160em" style="" src="https://github-readme-stats.vercel.app/api/top-langs/?username=danielfrodrigues&layout=compact&langs_count=7&theme=transparent&text_color=FFF&title_color=00C5A6&border_color=00C5A6"/>
-  </a>
-</div>
-
-<br><br>
-
 [![Linkedin](https://img.shields.io/badge/LinkedIn-027CC2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/daniel-ferreira-rodrigues-244a18149)
 [![Telegram](https://img.shields.io/badge/Telegram-027CC2?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/danielfrodrigues01)
 [![Skype](https://img.shields.io/badge/Skype-027CC2?style=for-the-badge&logo=skype&logoColor=white)](https://join.skype.com/invite/u4KhU3b6lOav)
