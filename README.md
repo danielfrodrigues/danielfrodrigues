@@ -35,4 +35,6 @@
 <br>
 💡 <u>Ser desenvolvedor é uma viagem onde a próxima parada é a solução de um problema.</u>
 
+<br><br>
+
  ![Snake animation](https://github.com/danielfrodrigues/danielfrodrigues/blob/output/github-contribution-grid-snake.svg)
