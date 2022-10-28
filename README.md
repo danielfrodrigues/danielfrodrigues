@@ -32,7 +32,7 @@
 [![Skype](https://img.shields.io/badge/Skype-027CC2?style=for-the-badge&logo=skype&logoColor=white)](https://join.skype.com/invite/u4KhU3b6lOav)
 [![GMAIL](https://img.shields.io/badge/Gmail-027CC2?style=for-the-badge&logo=gmail&logoColor=white)](https://mailto:danielferreira0608@gmail.com)
 
-<br><br>
+<br>
 💡 <u>Ser desenvolvedor é uma viagem onde a próxima parada é a solução de um problema.</u>
 
  ![Snake animation](https://github.com/danielfrodrigues/danielfrodrigues/blob/output/github-contribution-grid-snake.svg)
