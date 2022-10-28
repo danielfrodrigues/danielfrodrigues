@@ -26,7 +26,7 @@
 </div>
 
 <br><br>
-### <i>Tecnologias que estou Estudando e Utilizando:</i><br>
+### <i>Canais de Contato:</i><br>
 [![Linkedin](https://img.shields.io/badge/LinkedIn-027CC2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/daniel-ferreira-rodrigues-244a18149)
 [![Telegram](https://img.shields.io/badge/Telegram-027CC2?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/danielfrodrigues01)
 [![Skype](https://img.shields.io/badge/Skype-027CC2?style=for-the-badge&logo=skype&logoColor=white)](https://join.skype.com/invite/u4KhU3b6lOav)
